@@ -1,0 +1,8 @@
+F:\Unity\FYP\Networking\NetworkServers\Microservices\InventoryService\InventorySystemMongoDB\bin\Debug\netcoreapp3.1\InventorySystemMongoDB.deps.json
+F:\Unity\FYP\Networking\NetworkServers\Microservices\InventoryService\InventorySystemMongoDB\bin\Debug\netcoreapp3.1\InventorySystemMongoDB.dll
+F:\Unity\FYP\Networking\NetworkServers\Microservices\InventoryService\InventorySystemMongoDB\obj\Debug\netcoreapp3.1\InventorySystemMongoDB.csprojAssemblyReference.cache
+F:\Unity\FYP\Networking\NetworkServers\Microservices\InventoryService\InventorySystemMongoDB\obj\Debug\netcoreapp3.1\InventorySystemMongoDB.AssemblyInfoInputs.cache
+F:\Unity\FYP\Networking\NetworkServers\Microservices\InventoryService\InventorySystemMongoDB\obj\Debug\netcoreapp3.1\InventorySystemMongoDB.AssemblyInfo.cs
+F:\Unity\FYP\Networking\NetworkServers\Microservices\InventoryService\InventorySystemMongoDB\bin\Debug\netcoreapp3.1\InventorySystemMongoDB.pdb
+F:\Unity\FYP\Networking\NetworkServers\Microservices\InventoryService\InventorySystemMongoDB\obj\Debug\netcoreapp3.1\InventorySystemMongoDB.dll
+F:\Unity\FYP\Networking\NetworkServers\Microservices\InventoryService\InventorySystemMongoDB\obj\Debug\netcoreapp3.1\InventorySystemMongoDB.pdb

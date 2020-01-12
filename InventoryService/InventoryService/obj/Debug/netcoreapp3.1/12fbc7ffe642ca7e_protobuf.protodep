@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Protobuf.cs \
+obj\Debug\netcoreapp3.1/ProtobufGrpc.cs: Protos/protobuf.proto
